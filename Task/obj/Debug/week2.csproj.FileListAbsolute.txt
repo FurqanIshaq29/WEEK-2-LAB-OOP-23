@@ -1,0 +1,7 @@
+D:\OOP 23\week2\bin\Debug\week2.exe.config
+D:\OOP 23\week2\bin\Debug\week2.exe
+D:\OOP 23\week2\bin\Debug\week2.pdb
+D:\OOP 23\week2\obj\Debug\week2.csproj.AssemblyReference.cache
+D:\OOP 23\week2\obj\Debug\week2.csproj.CoreCompileInputs.cache
+D:\OOP 23\week2\obj\Debug\week2.exe
+D:\OOP 23\week2\obj\Debug\week2.pdb

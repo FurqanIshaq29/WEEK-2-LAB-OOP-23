@@ -1,0 +1,7 @@
+D:\OOP 23\week2\StoreMS\bin\Debug\StoreMS.exe.config
+D:\OOP 23\week2\StoreMS\bin\Debug\StoreMS.exe
+D:\OOP 23\week2\StoreMS\bin\Debug\StoreMS.pdb
+D:\OOP 23\week2\StoreMS\obj\Debug\StoreMS.csproj.AssemblyReference.cache
+D:\OOP 23\week2\StoreMS\obj\Debug\StoreMS.csproj.CoreCompileInputs.cache
+D:\OOP 23\week2\StoreMS\obj\Debug\StoreMS.exe
+D:\OOP 23\week2\StoreMS\obj\Debug\StoreMS.pdb
